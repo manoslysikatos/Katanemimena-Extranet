@@ -1,10 +1,10 @@
 # Admin PhD Panel
 ## Prerequisites
 
-##Download Intranet
+Download Intranet
 [https://github.com/manoslysikatos/Katanemimena-Intranet.git](https://github.com/manoslysikatos/Katanemimena-Intranet.git)
 
-##Default Accounts
+Default Accounts
 Full Name          | Email         | Password  | Role         |
 ------------------ | ------------- |:---------:| ------------:|
 Argiris Tsadimas   | it2@hua.gr    | pass123   | Supervisor   |
